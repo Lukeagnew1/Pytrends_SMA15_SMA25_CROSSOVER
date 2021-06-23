@@ -1,0 +1,1 @@
+# Pytrends_SMA15_SMA25_CROSSOVER
